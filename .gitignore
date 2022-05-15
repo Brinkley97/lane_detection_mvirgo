@@ -1,0 +1,9 @@
+# my adds
+processed_videos/
+unprocessed_videos/
+videos_to_convert/
+
+.mp4
+.zip
+.p
+.h5
