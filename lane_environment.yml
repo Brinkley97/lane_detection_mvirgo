@@ -1,0 +1,14 @@
+name: lane_environment
+channels:
+- menpo
+- conda-forge
+- defaults
+dependencies:
+- keras=2.3.1
+- IPython
+- moviepy
+- numpy
+- opencv
+- scikit-learn
+- scipy=1.2.1
+- ffmpeg
