@@ -7,3 +7,5 @@ videos_to_convert/
 .zip
 .p
 .h5
+*.p
+*.h5
